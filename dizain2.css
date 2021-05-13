@@ -1,0 +1,13 @@
+body {
+background-color: rgb(23 23 33);
+color: orange;
+}
+
+a {
+    color: orange;
+}
+
+table {
+    color: white;
+    border-color: rgb(155, 144, 144);
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(23 23 33);
+    color: white;
+}
+h1, h3 {
+    color: orange;
+} 
+b {
+    color: lightseagreen;
+}
+
+p {
+    border: 1px;
+    padding: 10px;
+}
+.shapka {
+    width: 500px;
+}
+footer {
+    color: orange;
+}

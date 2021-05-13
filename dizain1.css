@@ -1,0 +1,32 @@
+
+
+html {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+body {
+color: orange;
+background-color: rgb(23 23 33);
+margin: 10;
+padding: 20;
+line-height: 40px
+}
+
+h1 {
+font-family: Georgia, serif;
+color: orange;
+font-weight: bold;
+}
+
+
+
+a {
+    color: orange
+}
+
+
+
+
+
+
+
